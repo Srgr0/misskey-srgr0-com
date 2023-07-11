@@ -19,7 +19,7 @@ Traffic is forwarded to the Cloudflare network by the Cloudflare Tunnel and expo
 ### Software
 Misskey 13.13.2 (systemd/local-nginx)
 
-### Relay
+## Relay
 The instance is connected to the following relay services:
 - [Fedibird Relay Service](https://relay.fedibird.com/)
 - [ハッシュタグリレー](https://hashtag-relay.dtp-mstdn.jp/)
