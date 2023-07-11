@@ -16,6 +16,9 @@ Ubuntu 20.04.6 LTS
 ### Network
 Traffic is forwarded to the Cloudflare network by the Cloudflare Tunnel and exposed to the Internet.
 
+### Object Storage
+The instance uses Cloudflare R2.
+
 ### Software
 Misskey 13.13.2 (systemd/local-nginx)
 
