@@ -8,7 +8,7 @@ Private Misskey instance of [Srgr0](https://github.com/srgr0).
 - Virtualized
 - Xeon CPU
 - 2GB RAM
-- 50GB SSD
+- 50GB SSD + 50GB SSD
 
 ### OS
 Ubuntu 20.04.6 LTS
@@ -24,6 +24,8 @@ Misskey 13.13.2 (systemd/local-nginx)
 
 ## Relay
 The instance is connected to the following relay services:
+- [YUKIMOCHI Toot Relay Service](https://relay.toot.yukimochi.jp/)
 - [Fedibird Relay Service](https://relay.fedibird.com/)
 - [ハッシュタグリレー](https://hashtag-relay.dtp-mstdn.jp/)
 - [taruntarun relay](https://relay.taruntarun.net/)
+
