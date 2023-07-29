@@ -14,7 +14,7 @@ Personal Misskey instance of [Srgr0](https://github.com/srgr0).
 Ubuntu 20.04.6 LTS
 
 ### Network
-50Mbps (Software-based bandwidth limit)
+50Mbps (Software-based bandwidth limit)  
 Traffic is forwarded to the Cloudflare network by the Cloudflare Tunnel and exposed to the Internet.
 
 ### Object Storage
