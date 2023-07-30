@@ -21,7 +21,7 @@ Traffic is forwarded to the Cloudflare network by the Cloudflare Tunnel and expo
 Cloudflare R2 ([Usage](https://github.com/Srgr0/misskey_cloudflare-r2-usage/blob/main/output.csv))
 
 ### Software
-Misskey 13.13.2 (systemd/local-nginx)
+Misskey 13 (systemd/local-nginx)
 
 ## Relay
 The instance is connected to the following relay services:
