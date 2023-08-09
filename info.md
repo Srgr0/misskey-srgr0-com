@@ -17,16 +17,19 @@ Ubuntu 20.04.6 LTS
 50Mbps (Software-based bandwidth limit)  
 Traffic is forwarded to the Cloudflare network by the Cloudflare Tunnel and exposed to the Internet.
 
-### Object Storage
-Cloudflare R2 ([Usage](https://github.com/Srgr0/misskey_cloudflare-r2-usage/blob/main/output.csv))
-
 ### Software
 Misskey 13 (systemd/local-nginx)
 
-## Relay
+#### Object Storage
+Cloudflare R2 ([Usage](https://github.com/Srgr0/misskey_cloudflare-r2-usage/blob/main/output.csv))
+
+#### Relay
 The instance is connected to the following relay services:
 - [YUKIMOCHI Toot Relay Service](https://relay.toot.yukimochi.jp/)
 - [Fedibird Relay Service](https://relay.fedibird.com/)
 - [ハッシュタグリレー](https://hashtag-relay.dtp-mstdn.jp/)
 - [taruntarun relay](https://relay.taruntarun.net/)
+
+## SLA Report
+https://synthetics.newrelic.com/report/uXQ1bwkwmZ6?view=daily-sla-report
 
